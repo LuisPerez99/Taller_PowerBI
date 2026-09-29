@@ -1,0 +1,10 @@
+﻿mes,mes_nombre,sede,consumo_kwh,costo_usd,dias_medidas
+1,Enero,Planta Industrial,1978.7,237.47,31
+1,Enero,Sede Norte,1204.8,144.59,31
+1,Enero,Sede Sur,1094.5,131.35,31
+2,Febrero,Planta Industrial,1759.6,211.16,28
+2,Febrero,Sede Norte,1112.9,133.54,28
+2,Febrero,Sede Sur,1099.1,131.91,28
+3,Marzo,Planta Industrial,2467.5,296.13,31
+3,Marzo,Sede Norte,1274.0,152.88,31
+3,Marzo,Sede Sur,1020.2,122.41,31
